@@ -1,0 +1,11 @@
+CJMCU-1334 VIN -> 3.3V PIN 36 
+GND -> GND 
+BCLK -> GP10 (PIN 14)
+WS/WSEL/LRC -> GP11(PIN 15)
+DIN -> GP12(PIN 16)
+
+BUTTON -> GP14 (PIN 19)
+CONNECT OTHER SIDE TO GND
+
+FOR MORE DETAILS 
+REFER -> https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html
